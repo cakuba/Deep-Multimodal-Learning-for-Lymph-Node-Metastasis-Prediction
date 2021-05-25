@@ -2,7 +2,6 @@
 
 
 # Deep-Multimodal-Learning-for-Lymph-Node-Metastasis-Prediction-of-Primary-Thyroid-Cancer
-a deep multimodal learning network designed for Lymph Node Metastasis Prediction of Primary Thyroid Cancer
 
 Incidence of primary thyroid cancer rises steadily over the past decades because of overdiagnosis and overtreatment through the improvement in imaging techniques for screening, especially in ultrasound examination. Metastatic status of lymph nodes is important for staging the type of primary thyroid cancer. Deep learning algorithms based on ultrasound images were thus developed to assist radiologists on the diagnosis of lymph node metastasis. To integrate more clinical context (e.g., health records and various image modalities) into, and explore more interpretable patterns discovered by, these algorithms, a deep multimodal learning network was proposed for the prediction of lymph node metastasis in primary thyroid cancer patients. 
 
