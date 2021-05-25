@@ -28,6 +28,12 @@ The proposed network is also named as MMC-net (MultiModal classification network
    python mm_classification.py 
 ``` 
 
+4. to observe the training history and fine-tune the network
+```Bash
+   from training_history import vis_history
+   vis_history(history_file_path)
+``` 
+
 ## Who are we?
 
 MMC-net is proposed and maintained by researchers from <a href="https://www.wit.edu.cn/" target="_blank">WIT</a>.
